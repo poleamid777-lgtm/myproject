@@ -1,2 +1,2 @@
 # myproject
-u
+ https://poleamid777-lgtm.github.io/myproject/
